@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Caculate the tip</string>
+    <string name="tip_amount">Tiền Tip: %s vnđ</string>
+</resources>
